@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # File Encryption and Brute Force Demo
 
 ## Opis Projektu
@@ -71,3 +72,7 @@ python file_encryption.py
 ## Problemy i ich Rozwiązania
 1. Problem z szyfrowaniem dużych plików - rozwiąż przez dzielenie plików na bloki.
 2. Długi czas brute force przy dużych zakresach - zastosuj ograniczenia długości haseł.
+=======
+# ABwP_projekt
+Projekt na zaliczenie przedmiotu ,,Aspekty bezpieczeństwa w programowaniu''.
+>>>>>>> 3552724dab0df0273409d0ed6647a3566a736511
